@@ -6,17 +6,16 @@
 Monitor bet365 in-play football matches scores.
 
 ### 二、Getting Started：
-require PyExecJS,requests,autobahn,twisted. 
-  
-  
-&nbsp;&nbsp;pip install PyExecJS  
 
-&nbsp;&nbsp;pip install requests  
-
-&nbsp;&nbsp;pip install autobahn  
-
-&nbsp;&nbsp;pip install twisted
+requirements:<br>
+- PyExecJS
+- requests
+- autobahn
+- twisted
   
+All the requirements for the python application are listed in the _requirements.txt_ file, you can install them using pip with the following command: ```pip install -r ./requirements.txt```.<br>
+Otherwise, you can install each of the requirements by running: ```pip install <requirement>```.<br>
+NOTE: This command must be run at the root of the project (bet365_websocket_crawler).
   
 Run bet365_websocket_spider.py and see output logs.
 
@@ -33,17 +32,16 @@ If it can't get data after running, try using the following API.
 bet365的比赛实时比分数据、实时赛况监控.
 
 ### 二、使用方法：
-要求安装 PyExecJS,requests,autobahn,twisted.
-  
-  
-&nbsp;&nbsp;pip install PyExecJS
 
-&nbsp;&nbsp;pip install requests  
-
-&nbsp;&nbsp;pip install autobahn
-
-&nbsp;&nbsp;pip install twisted
+要求：<br>
+- PyExecJS
+- requests
+- autobahn
+- twisted
   
+python 应用程序的所有要求都列在 _requirements.txt_ 文件中，您可以通过以下命令使用 pip 安装它们：```pip install -r ./requirements.txt```。<br>
+否则，您可以通过运行以下命令来安装每个需求：````pip install <requirement>```。<br>
+注意：此命令必须在项目的根目录（bet365_websocket_crawler）运行。
   
 直接运行bet365_websocket_spider.py 即可.
 

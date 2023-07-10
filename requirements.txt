@@ -1,0 +1,4 @@
+PyExecJS
+requests
+autobahn
+twisted
