@@ -23,8 +23,8 @@ Run bet365_websocket_spider.py and see output logs.
 ### 三、Note：
 If it can't get data after running, try using the following API.
 
-1. Get all live football matches, url: http://106.52.68.20/b365/soccer/test/allEv?lang=en
-2. Get odds of all matches for goal line, url： http://106.52.68.20/b365/soccer/test/oneHd2allEv/C1-G15?lang=en
+1. Get all live football matches, url: http://1.12.46.26/b365/soccer/test/allEv?lang=en
+2. Get odds of all matches for goal line, url： http://1.12.46.26/b365/soccer/test/oneHd2allEv/C1-G15?lang=en
     
     
 # 中文版:
@@ -50,8 +50,8 @@ bet365的比赛实时比分数据、实时赛况监控.
 ### 三、说明：
 如果运行后没法正常获取365数据，可以尝试以下api接口.
 
-1. 获取当前进行的足球赛事，地址： http://106.52.68.20/b365/soccer/test/allEv
-2. 获取所有赛事大小盘实时赔率，地址： http://106.52.68.20/b365/soccer/test/oneHd2allEv/C1-G15
+1. 获取当前进行的足球赛事，地址： http://1.12.46.26/b365/soccer/test/allEv
+2. 获取所有赛事大小盘实时赔率，地址： http://1.12.46.26/b365/soccer/test/oneHd2allEv/C1-G15
 
 
 ### 四、爬虫数据联系QQ:  3403027828
